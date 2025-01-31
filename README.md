@@ -18,3 +18,5 @@ This program enables the ESP32 to control four LEDs and a fan remotely via MQTT 
 To integrate voice recognition, an external voice module such as the Elechouse Voice Recognition Module V3 can be used, allowing the ESP32 to understand voice commands. With this integration, the user can control the devices by simply speaking commands like "LED1 ON" or "Fan OFF." The ESP32 listens for these voice commands through serial communication, then executes the corresponding actions, such as toggling LEDs or controlling the fan.Alternatively, cloud-based voice recognition services like Google Assistant or Amazon Alexa can be used to send MQTT messages, allowing voice control through these platforms. This integration would enhance the project's functionality, combining both MQTT and voice commands for easy device management.
 
 *OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/2e57a706-eb9c-460f-9094-0dc4a574a359)
